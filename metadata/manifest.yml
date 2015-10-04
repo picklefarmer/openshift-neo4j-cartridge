@@ -11,6 +11,7 @@ Cartridge-Vendor: neo4j
 Source-Url: https://github.com/danielnatali/openshift-neo4j-cartridge.git
 Categories:
   - service
+  - web_framework
 Website: http://www.neo4j.org/
 Help-Topics:
   "Developer Center": https://www.openshift.com/developers
