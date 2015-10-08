@@ -8,7 +8,7 @@ License-Url:
 Vendor: Acciona IT
 Cartridge-Version: 0.0.3
 Cartridge-Vendor: neo4j
-Source-Url: https://github.com/danielnatali/openshift-neo4j-cartridge.git
+Source-Url: https://github.com/picklefarmer/openshift-neo4j-cartridge.git
 Categories:
   - service
   - web_framework
